@@ -24,28 +24,18 @@ Steps to install TrueNAS Scale on the old PC.
 
 ### 2. Configure Storage
 - Creating and mounting storage pools.
-- Setting up file shares.
 
-### 3. Set Up Jellyfin
-- Installing Jellyfin.
-- Adding media libraries.
-- Setting up remote access.
-
-### 4. Host a Minecraft Server
-- Installing Minecraft Server.
-- Configuring server.properties.
-- Managing backups.
-
-### 5. Secure Access with Tailscale
+### 3. Secure Access with Tailscale
 - Installing Tailscale.
 - Configuring access control.
 - Connecting devices.
 
-## Lessons Learned & Future Improvements
-- What worked well.
-- Challenges faced.
-- Potential upgrades.
+### 4. Set Up Jellyfin
+- Installing Jellyfin.
+- Adding media libraries.
+- Setting up remote access.
 
-## Contact & Links
-- GitHub: [Your Profile]
-- Blog/Portfolio: [If applicable]
+### 5. Host a Minecraft Server
+- Installing Minecraft Server.
+- Configuring server.properties.
+- Managing backups.
